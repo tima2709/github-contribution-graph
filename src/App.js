@@ -55,10 +55,6 @@ function App() {
 
 
 
-
-
-
-
     return (
         <div className="App">
             <Timeline cells={result}/>
