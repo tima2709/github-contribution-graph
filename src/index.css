@@ -17,7 +17,6 @@ code {
   grid-template-rows: repeat(7, 2rem);
   grid-template-columns: repeat(51, 2rem);
   grid-auto-flow: column;
-  margin: 0 auto;
   /*flex-direction: column;*/
   /*flex-wrap: wrap;*/
   height: 220px;
